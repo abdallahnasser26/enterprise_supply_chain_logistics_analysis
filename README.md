@@ -249,7 +249,7 @@ enterprise-supply-chain-logistics-analysis/
 
 ### Home Page
 
-![Home Page](assets/home_page.png)
+![Home Page](images/home_page.png)
 
 ### Executive Performance Overview
 
