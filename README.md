@@ -253,19 +253,19 @@ enterprise-supply-chain-logistics-analysis/
 
 ### Executive Performance Overview
 
-![Executive Performance Overview](assets/executive_overview.png)
+![Executive Performance Overview](images/executive_overview.png)
 
 ### Delivery Performance
 
-![Delivery Performance](assets/delivery_performance.png)
+![Delivery Performance](images/delivery_performance.png)
 
 ### Inventory Risk
 
-![Inventory Risk](assets/inventory_risk.png)
+![Inventory Risk](images/inventory_risk.png)
 
 ### Order Details
 
-![Order Details](assets/order_details.png)
+![Order Details](images/order_details.png)
 
 ---
 
